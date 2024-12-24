@@ -1,0 +1,43 @@
+    1  ls
+    2  ls
+    3  cd ..
+    4  ls
+    5  cd app
+    6  sl
+    7  ls
+    8  cd ..
+    9  ls
+   10  yarn dev
+   11  cd  app
+   12  yarn dev
+   13  npm i -g vercel
+   14  shadcn
+   15  npx shadcn@latest init
+   16  npx shadcn-ui@latest add button
+   17  cat components.json 
+   18  rm -rf components.json
+   19  npx shadcn@latest init
+   20  npx shadcn-ui@latest add button
+   21  npx shadcn-ui@latest init
+   22  node --version
+   23  npm --version
+   24  node --experimental-modules --experimental-json-modules $(which npx) shadcn-ui@latest init
+   25  npm install -g shadcn-ui
+   26  shadcn-ui init
+   27  npm install -g shadcn-ui
+   28  npx clear-npx-cache
+   29  npx shadcn-ui@latest init
+   30  yarn dlx shadcn-ui@latest init
+   31  yarn add lucide-react
+   32  ps -ef
+   33  yarn dev
+   34  npx shadcn-ui@latest add button
+   35  npx shadcn@latest init
+   36  rm -rf components.json
+   37  npx shadcn@latest init
+   38  npx shadcn@latest add button
+   39  yarn dev
+   40  npx shadcn@latest add card
+   41  npx shadcn@latest add input
+   42  yarn dev
+   43  history >> history_1017.txt
